@@ -25,10 +25,10 @@
         }
     }
 
-    if (location.host.indexOf("www.google.com/doodles") > -1) {
+    if (location.href.indexOf("google.com/doodles") > -1) {
         setTextById('searchinput', _generate_text());
         clickElementById('searchbtn');
     } else {
-        alert("Not a www.google.com/doodles page");
+        alert("Not a google.com/doodles page");
     }
 })();
