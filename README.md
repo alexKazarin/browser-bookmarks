@@ -10,3 +10,5 @@ Google doodles search bookmarklet :
 Ex.:
 
 ![](doodles-search.png)
+
+For faster use of javascript bookmarks you could use Chrome extension 'Speed Dial' and run your scripts with hotkeys (Alt+1,Alt+2...) 
